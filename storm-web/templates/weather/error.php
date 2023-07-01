@@ -1,5 +1,4 @@
-<?php
-header('Content-Type: text/html');
+  php header ('Content-Type: text/html');
 {
   $denied = $_POST['Denied'];
   $una = $_POST['Una'];
